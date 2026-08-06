@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Izhar999/DSA-Problem/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Izhar999/DSA-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Izhar999/DSA-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
