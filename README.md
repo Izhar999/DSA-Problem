@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Izhar999/DSA-Problem/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Izhar999/DSA-Problem/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Izhar999/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Izhar999/DSA-Problem/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Izhar999/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Izhar999/DSA-Problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Izhar999/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Izhar999/DSA-Problem/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
