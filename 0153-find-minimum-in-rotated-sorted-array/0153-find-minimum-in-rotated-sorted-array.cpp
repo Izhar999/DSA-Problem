@@ -4,13 +4,14 @@ public:
         int n=nums.size();
         int l=0;
         int r=n-1;
+        int mini=INT_MAX;
         while(r>l){
             int m=l+(r-l)/2;
-            if(nums[r]<nums[m]){
-                l=m+1;
+            if(nums[m]<nums[r]){
+                r=m;
             }
             else{
-                r=m;
+                l=m+1;
             }
         }
         return nums[l];
