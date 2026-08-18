@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Izhar999/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Izhar999/DSA-Problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Izhar999/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Izhar999/DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
