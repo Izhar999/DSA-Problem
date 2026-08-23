@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Izhar999/DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Izhar999/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Izhar999/DSA-Problem/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Izhar999/DSA-Problem/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Izhar999/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Izhar999/DSA-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Izhar999/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Izhar999/DSA-Problem/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Izhar999/DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Izhar999/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Izhar999/DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Izhar999/DSA-Problem/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Izhar999/DSA-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Izhar999/DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
