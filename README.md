@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Izhar999/DSA-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Izhar999/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Izhar999/DSA-Problem/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Izhar999/DSA-Problem/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Izhar999/DSA-Problem/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Izhar999/DSA-Problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Izhar999/DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Izhar999/DSA-Problem/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Izhar999/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Izhar999/DSA-Problem/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/Izhar999/DSA-Problem/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Izhar999/DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Izhar999/DSA-Problem/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Izhar999/DSA-Problem/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Izhar999/DSA-Problem/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Izhar999/DSA-Problem/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
