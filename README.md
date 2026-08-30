@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Izhar999/DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Izhar999/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Izhar999/DSA-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Izhar999/DSA-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Izhar999/DSA-Problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Izhar999/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Izhar999/DSA-Problem/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Izhar999/DSA-Problem/tree/master/0881-boats-to-save-people) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Izhar999/DSA-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
