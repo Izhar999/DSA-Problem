@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Izhar999/DSA-Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Izhar999/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Izhar999/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/Izhar999/DSA-Problem/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Izhar999/DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Izhar999/DSA-Problem/tree/master/0713-subarray-product-less-than-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Izhar999/DSA-Problem/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Izhar999/DSA-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Izhar999/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Izhar999/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Izhar999/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Izhar999/DSA-Problem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Izhar999/DSA-Problem/tree/master/0904-fruit-into-baskets) |
@@ -175,8 +178,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
