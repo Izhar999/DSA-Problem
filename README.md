@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Izhar999/DSA-Problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Izhar999/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Izhar999/DSA-Problem/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Izhar999/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Izhar999/DSA-Problem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Izhar999/DSA-Problem/tree/master/0904-fruit-into-baskets) |
@@ -166,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Izhar999/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
