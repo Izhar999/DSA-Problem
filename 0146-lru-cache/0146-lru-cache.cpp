@@ -12,9 +12,11 @@ public:
         l.push_front(key);
         mp[key].first=l.begin();
     }
-    int get(int key) {
-        if(mp.find(key)==mp.end()) return -1;
 
+    int get(int key) {
+        if(mp.find(key)==mp.end()){
+            return -1;
+        }
         leastrecentlyused(key);
         return mp[key].second;
     }
@@ -25,15 +27,14 @@ public:
             leastrecentlyused(key);
             return;
         }
-        l.push_front(key);
-        mp[key] = {l.begin(), value};
-        
-
-        if(mp.size()>n){
-            int least_2b_del=l.back();
+        if(mp.size()==n){
+            int del=l.back();
             l.pop_back();
-            mp.erase(least_2b_del);
+            mp.erase(del);  
         }
+        l.push_front(key);
+        mp[key].first=l.begin();
+        mp[key].second=value;
     }
 };
 
