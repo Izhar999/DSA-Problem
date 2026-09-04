@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Izhar999/DSA-Problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Izhar999/DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Izhar999/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Izhar999/DSA-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Izhar999/DSA-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Izhar999/DSA-Problem/tree/master/0042-trapping-rain-water) |
+| [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,17 +176,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
