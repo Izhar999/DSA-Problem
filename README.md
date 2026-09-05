@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Izhar999/DSA-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Izhar999/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Izhar999/DSA-Problem/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3904-smallest-stable-index-ii](https://github.com/Izhar999/DSA-Problem/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Izhar999/DSA-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Izhar999/DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/Izhar999/DSA-Problem/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
