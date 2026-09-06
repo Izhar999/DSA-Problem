@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Izhar999/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Izhar999/DSA-Problem/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Izhar999/DSA-Problem/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Izhar999/DSA-Problem/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Izhar999/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Izhar999/DSA-Problem/tree/master/0567-permutation-in-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Izhar999/DSA-Problem/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Izhar999/DSA-Problem/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
