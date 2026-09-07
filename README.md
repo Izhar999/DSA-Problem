@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Izhar999/DSA-Problem/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Izhar999/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Izhar999/DSA-Problem/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Izhar999/DSA-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Izhar999/DSA-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Izhar999/DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Izhar999/DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Izhar999/DSA-Problem/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
