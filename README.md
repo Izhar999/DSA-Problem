@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Izhar999/DSA-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Izhar999/DSA-Problem/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Izhar999/DSA-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
