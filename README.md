@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Izhar999/DSA-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Izhar999/DSA-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Izhar999/DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Izhar999/DSA-Problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Izhar999/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Izhar999/DSA-Problem/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
