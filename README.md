@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Izhar999/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [0445-add-two-numbers-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0445-add-two-numbers-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Izhar999/DSA-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Izhar999/DSA-Problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Izhar999/DSA-Problem/tree/master/3871-count-commas-in-range-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Izhar999/DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Izhar999/DSA-Problem/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Izhar999/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Izhar999/DSA-Problem/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Design
 |  |
