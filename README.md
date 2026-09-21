@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Izhar999/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Izhar999/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Izhar999/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
