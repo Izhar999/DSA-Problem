@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Izhar999/DSA-Problem/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Izhar999/DSA-Problem/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Izhar999/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Izhar999/DSA-Problem/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Izhar999/DSA-Problem/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [1472-design-browser-history](https://github.com/Izhar999/DSA-Problem/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
