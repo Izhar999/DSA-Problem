@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Izhar999/DSA-Problem/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Izhar999/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Izhar999/DSA-Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Izhar999/DSA-Problem/tree/master/0445-add-two-numbers-ii) |
